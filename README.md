@@ -1,4 +1,15 @@
 # Learning resources
+I realized the importance of having diversified interests in an attempt to accumulate lessons from different fields and
+by hearing others (podcasts) recommending the adoption of it. I value open-sourced information and how people share 
+lessons they learned through podcasts, books, blogs, etc. To showcase appreciation for all the resources I have access
+to, I decided to compile a list of the things I use/d for my own learning so others can develop awareness of them the 
+same way I did. The compiled lists are in no particular order, are not comprehensive, and I will update them 
+occasionally as I complete readings, discover interesting podcasts, or continue listening to audio books. 
+
+For questions or content (books, podcasts, platforms, etc) recommendations send an email, star this repo, or simply 
+reach out to have a chat about interesting things software engineering, life lessons, mentors, triathlon, or whatever 
+you want! 
+
 ## Table of contents 
 1. [Books](#books)
 1. [Audio books](#audio-books)
