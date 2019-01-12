@@ -94,3 +94,8 @@ Economies, and Companies]()
 - [The Tim Ferriss Show]()
 - [The Tony Robbins Podcast]()
 - [This Week in Machine Learning and Artificial Intelligence]()
+
+# Online platforms
+- [Reddit - r/programming, r/computerscience, r/biology]()
+- [Researcher]()
+- [Medium]()
