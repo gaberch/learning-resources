@@ -57,6 +57,9 @@
 - [The Everything Store: Jeff Bezos and the Age of Amazon]()
 - [Elon Musk: Tesla, SpaceX, and the Quest for a Fantastic Future]()
 - [How to Win Friends and Influence People]()
+- [The Upstarts]()
+- [Test-Driven Development]()
+- [Production-Ready Microservices]()
 
 # Audio Books
 - [How to Win Friends and Influence People]()
