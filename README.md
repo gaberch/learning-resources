@@ -4,7 +4,8 @@ by hearing others (podcasts) recommending the adoption of it. I value open-sourc
 lessons they learned through podcasts, books, blogs, etc. To showcase appreciation for all the resources I have access
 to, I decided to compile a list of the things I use/d for my own learning so others can develop awareness of them the 
 same way I did. The compiled lists are in no particular order, are not comprehensive, and I will update them 
-occasionally as I complete readings, discover interesting podcasts, or continue listening to audio books. 
+occasionally as I complete readings, discover interesting podcasts or unsubscribe to some, continue listening to audio 
+books.
 
 For questions or content (books, podcasts, platforms, etc) recommendations send an email, star this repo, or simply 
 reach out to have a chat about interesting things software engineering, life lessons, mentors, triathlon, or whatever 
@@ -101,6 +102,7 @@ Economies, and Companies](https://www.audible.ca/pd/Scale-Audiobook/B071RND6YD?r
 - [The Wealth of Nations](https://www.audible.ca/pd/The-Wealth-of-Nations-Audiobook/B072FF785J?ref=a_lib_c4_libItem_5_B072FF785J&pf_rd_p=de1c9398-3145-4721-864a-7dafb77b7b4e&pf_rd_r=YF4E4YPND3SKAF5BXVKE&)
 
 # Podcasts
+I do not listen to every single episode of the podcasts listed below.  
 - [BioScience Talks](https://itunes.apple.com/ca/podcast/bioscience-talks/id1001260411?mt=2)
 - [Orbitals](https://itunes.apple.com/ca/podcast/orbitals/id1436176408?mt=2)
 - [Our Ludicrous Future](https://itunes.apple.com/ca/podcast/our-ludicrous-future/id1436205188?mt=2)
@@ -119,6 +121,7 @@ Economies, and Companies](https://www.audible.ca/pd/Scale-Audiobook/B071RND6YD?r
 - [This Week in Machine Learning and Artificial Intelligence](https://itunes.apple.com/ca/podcast/this-week-in-machine-learning-artificial-intelligence/id1116303051?mt=2)
 
 # Online platforms
-- [Reddit - r/programming, r/computerscience, r/biology](https://www.reddit.com/)
+There are a few sub-reddits I visit occasionally but I pay particular attention to the Bioinformatics one.  
+- [Reddit - r/programming, r/computerscience, r/biology, r/bioinformatics](https://www.reddit.com/)
 - [Researcher](https://www.researcher-app.com/)
 - [Medium](https://medium.com/)
